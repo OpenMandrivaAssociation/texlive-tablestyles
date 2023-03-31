@@ -1,6 +1,6 @@
 Name:		texlive-tablestyles
 Version:	34495
-Release:	1
+Release:	2
 Summary:	Styles for tables with new commands
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tablestyles
