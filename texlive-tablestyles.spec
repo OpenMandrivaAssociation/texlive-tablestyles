@@ -3,7 +3,7 @@ Version:	34495
 Release:	2
 Summary:	Styles for tables with new commands
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tablestyles
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tablestyles
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tablestyles.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tablestyles.doc.r%{version}.tar.xz
